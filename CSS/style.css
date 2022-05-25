@@ -1,0 +1,27 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 435px;
+    padding: 5px;
+}
+form {
+    width: fit-content;
+    margin: auto;
+    padding: 5px;
+}
+
+table, th, td {
+    border:  1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 1px;
+}
+table {
+    height: 5px;
+    width: 1px;
+}
+tr{
+    padding: 0px;
+}
